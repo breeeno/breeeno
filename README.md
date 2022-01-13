@@ -7,7 +7,7 @@ Atualmente moro em Capelinha - MG
 <br>
 Desde outubro de 2021 estudo programação, com meus estudos focados em Python, Django e ferramentas de versionamento de código.
 <br>
-Estou em busca de uma primeira oportunidade na área, ou então freelances para aumentar minha experiência na área.
+Estou em busca de uma primeira oportunidade na área, ou então freelances para aumentar minha experiência.
 
 
 Caso queira entrar em contato: <div>
