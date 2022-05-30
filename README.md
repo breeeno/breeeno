@@ -1,10 +1,8 @@
 # oi, meu nome é Breno &#129327;
 
 
-Aspirante a desenvolvedor, tenho meus estudos focados em Python, Django, ferramentas de versionamento de código e o sistema backend como um todo. &#128013;
+Apaixonado por python, motos e jogos, sou um desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas.</a> &#128013; 
 
-
-Estou em busca de uma oportunidade na área, ou então freelances para aumentar minha experiência.
 
 
 ## Mais informações sobre mim:
