@@ -3,6 +3,7 @@
 
 Apaixonado por python, motos e jogos, sou um desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas.</a> &#128013; 
 
+E sim, eu dificilmente atualizo isso daqui.
 
 
 ## Mais informações sobre mim:
