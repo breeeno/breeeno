@@ -1,7 +1,9 @@
-# oi, meu nome é Breno &#129327;
+# oi, meu nome é Breno  &#129327;
 
 
-Apaixonado por python, motos e jogos, sou um desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas.</a> &#128013; 
+Apaixonado por motos, jdm's e jogos, sou um desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
+
+Entusista de ruby &#128315; e tendo como linguagem mãe o python. &#128013;
 
 E sim, eu dificilmente atualizo isso daqui.
 
