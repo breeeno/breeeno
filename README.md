@@ -13,7 +13,7 @@ E sim, eu dificilmente atualizo isso daqui.
 * **Nome**: Breno Eustáquio
 * **Idade**: 19
 * **Onde eu moro**: Capelinha, Minas Gerais - Brazil
-* **Stack**: Python - Django - Django Rest - Heroku - AWS - PostgresSQL - Git
+* **Stack**: Python - Django - Django Rest - PostgresSQL 
 
 Caso queira entrar em contato: <div>
 
