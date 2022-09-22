@@ -1,7 +1,7 @@
 # oi, meu nome é Breno  &#129327;
 
 
-Apaixonado por motos, jdm's e jogos, sou um desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
+Desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
 
 Minha linguagem mãe é o python. &#128013;
 
