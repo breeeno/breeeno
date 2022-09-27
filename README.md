@@ -1,21 +1,23 @@
-# oi, meu nome é Breno  &#129327;
+## Hey there  &#129327;
 
 
-Desenvolvedor backend na <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
+Backend developer on <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
 
-Minha linguagem mãe é o python. &#128013;
+Python. &#128013; &#128154;
 
-E sim, eu dificilmente atualizo isso daqui.
+Learning NodeJS and the Javascript environment.
+
+Passionate about jdms, bikes and games.
 
 
-## Mais informações sobre mim:
+## More info about me:
 
-* **Nome**: Breno Eustáquio
-* **Idade**: 19
-* **Onde eu moro**: Capelinha, Minas Gerais - Brazil
+* **Name**: Breno Eustáquio
+* **Age**: 19
+* **Where i live**: Capelinha, Minas Gerais - Brazil
 * **Stack**: Python - Django - Flask - PostgresSQL 
 
-Caso queira entrar em contato: <div>
+How to contact me: <div>
 
 <a href ='mailto:brenocastro.programador@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
