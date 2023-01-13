@@ -5,7 +5,7 @@ Backend developer on <a href="https://b2ml.com.br">B2ML Sistemas</a>.
 
 Python. &#128013; &#128154;
 
-Learning NodeJS and the Typescript environment.
+Learning Angular.
 
 Passionate about jdms, bikes and games.
 
