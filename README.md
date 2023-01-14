@@ -15,7 +15,7 @@ Passionate about jdms, bikes and games.
 * **Name**: Breno Eustáquio
 * **Age**: 20
 * **Where i live**: Capelinha, Minas Gerais - Brazil
-* **Stack**: Python - Django - Flask - SQL 
+* **Stack**: Python - Django - Flask - SQL - TypeScript - Node
 
 How to contact me: <div>
 
