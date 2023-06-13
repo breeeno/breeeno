@@ -5,7 +5,6 @@ Backend developer on <a href="https://b2ml.com.br">B2ML Sistemas</a>.
 
 Python. &#128013; &#128154;
 
-Learning Front-End and Angular.
 
 Passionate about jdms, bikes and games.
 
