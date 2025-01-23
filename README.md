@@ -9,7 +9,7 @@ Python. &#128013; &#128154;
 ## More info about me:
 
 * **Name**: Breno Eustáquio
-* **Age**: 20
+* **Age**: 22
 * **Where i live**: Capelinha, Minas Gerais - Brazil
 * **Stack**: Python - Django - Flask - SQL - TypeScript - Node
 
