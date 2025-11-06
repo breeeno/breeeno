@@ -1,23 +1,16 @@
-## Hey there  &#129327;
+## About me
 
+Backend developer. Mainly specialized in Python and Typescript. Learning React tho.
 
-Backend developer on <a href="https://b2ml.com.br">B2ML Sistemas</a>.  
+Previously worked with FastAPI, Django, Flask, SQL and Node.js
 
-Python. &#128013; &#128154;
+&#128013;
 
-
-## More info about me:
-
-* **Name**: Breno Eustáquio
-* **Age**: 22
-* **Where i live**: Capelinha, Minas Gerais - Brazil
-* **Stack**: Python - Django - Flask - SQL - TypeScript - Node
-
-How to contact me: <div>
+Contact me: <div>
 
 <a href ='mailto:brenocastro.programador@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a href="https://www.linkedin.com/in/breno-eust%C3%A1quio//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/breno-eust%C3%A1quio//(https://www.linkedin.com/in/breno-eustaquio/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
  
 
