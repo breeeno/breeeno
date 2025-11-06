@@ -1,8 +1,10 @@
 ## About me
 
-Backend developer. Mainly specialized in Python and Typescript. Learning React tho.
+Software Engineer. Mainly specialized in Python and Typescript. Learning React tho.
 
 Previously worked with FastAPI, Django, Flask, SQL and Node.js
+
+Always looking for the best version of myself.
 
 &#128013;
 
